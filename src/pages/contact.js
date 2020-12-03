@@ -1,12 +1,13 @@
 import React from "react";
 import Nav from "../components/nav";
-// Homepage
-const IndexPage = () => {
+
+// Contact
+const Contact = () => {
   return (
     <>
       <Nav />
-      <h1>Lillian Ragudo</h1>
+      <h1>Contact</h1>
     </>
   );
 };
-export default IndexPage;
+export default Contact;
