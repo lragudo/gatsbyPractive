@@ -1,2 +1,1 @@
-# gatsbyPractive
-Created with CodeSandbox
+# My Project
