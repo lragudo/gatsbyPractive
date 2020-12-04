@@ -1,7 +1,6 @@
 import React from "react";
 import { Link } from "gatsby";
 
-// Navigation
 const Nav = () => {
   return (
     <ul>
@@ -14,4 +13,5 @@ const Nav = () => {
     </ul>
   );
 };
+
 export default Nav;
