@@ -3,7 +3,7 @@ import Nav from "../components/nav";
 import Footer from "../components/footer";
 import PortThumbs from "../components/portthumbs";
 
-import "../styles/styles.css";
+import "../styles/styles.scss";
 
 // Homepage
 const IndexPage = () => {
